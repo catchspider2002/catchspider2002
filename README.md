@@ -4,7 +4,7 @@
 
 If you like my work and want to contribute, feel free to buy me a coffee, I will be really thankful.
 
-<a href="https://www.buymeacoffee.com/naveencs" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<a href="https://www.buymeacoffee.com/naveencs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="50" ></a>
 
 🧰 Toolbox
 
