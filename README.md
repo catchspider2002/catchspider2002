@@ -1,14 +1,24 @@
 ### Hi there 👋, I am Naveen CS!
 
+I'm the developer behind the below web apps. 
+
+[Pattern.Monster](https://pattern.monster) - Simple and customizable SVG pattern generator
+
+[Periodic-Table.io](https://periodic-table.io) - Responsive periodic table with detailed properties for individual elements
+
+[Snaptweets](https://snaptweets.com) - Quick tool to create beautiful images from tweets
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/MrNaveenCS?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=MrNaveenCS)
 
-If you like my work and want to contribute, feel free to buy me a coffee, I will be really thankful.
+Like my work and want to support me?
 
 <a href="https://www.buymeacoffee.com/naveencs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="50" ></a>
 
+I'll be happy to have some coffee(s) from you, to keep my brain active! 😊
+
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="35"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="35"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="35"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" height="35"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" height="35"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" height="35"/> 
 <img src="https://sapper.svelte.dev/sapper-logo.svg" alt="Sapper" height="35"/> 
